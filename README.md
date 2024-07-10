@@ -1,14 +1,14 @@
-# Principais violinistas do seculo XXI
+#Short : Principais violinistas do seculo XXI
 
 ## 📒 Descrição
-Listar os principais violinistas do século XXI, que estão transformando a música clássica através do violino.
+Short criado para o YouTube, com os principais violinistas do século XXI, que estão transformando a música clássica através do violino.
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT
 VEED.IO
 
 ## 🧐 Processo de Criação
-Script e texto para o vídeo gerado  utilizando o ChatGPT e adicionado ao video gerado pela plataforma VEED.IO. 
+Script e texto para o vídeo gerado utilizando o ChatGPT e adicionado ao video gerado pela plataforma VEED.IO. 
 
 ## 🚀 Resultados
 O vídeo apresenta os principais violinistas da atualidade que estão transformando a música clássica.
