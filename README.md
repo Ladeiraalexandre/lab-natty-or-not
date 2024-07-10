@@ -1,4 +1,4 @@
-#Short : Principais violinistas do seculo XXI
+# Short dos Principais violinistas do seculo XXI
 
 ## 📒 Descrição
 Short criado para o YouTube, com os principais violinistas do século XXI, que estão transformando a música clássica através do violino.
