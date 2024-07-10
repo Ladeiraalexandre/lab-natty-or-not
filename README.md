@@ -4,8 +4,8 @@
 Short criado para o YouTube, com os principais violinistas do século XXI, que estão transformando a música clássica através do violino.
 
 ## 🤖 Tecnologias Utilizadas
-- ChatGPT(https://chatgpt.com/) para roteiro;
-- VEED.IO(https://www.veed.io/) para cirar o video;
+- [ChatGPT](https://chatgpt.com/) para roteiro;
+- [VEED.IO](https://www.veed.io/) para criar o video;
 
 ## 🧐 Processo de Criação
 Script e texto para o vídeo gerado utilizando o ChatGPT e adicionado ao video gerado pela plataforma VEED.IO. 
