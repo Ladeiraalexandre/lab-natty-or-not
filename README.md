@@ -20,32 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Principais violinistas do seculo XXI
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Listar os principais violinistas do século XXI, que estão transformando a música clássica através do violino.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+VEED.IO
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Script e texto para o vídeo gerado  utilizando o ChatGPT e adicionado ao video gerado pela plataforma VEED.IO. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo apresenta os principais violinistas da atualidade que estão transformando a música clássica.
 
+[LINK PARA O VIDEO AQUI](https://youtube.com/shorts/O9czfe4vSlE?feature=share)
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi muito interessante pesquisar sobre os artistas relacionados pela IA e verificar que realmente são destaques no mundo musical. Isso demosntra o quão atual são as informações apresentadas.```
